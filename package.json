@@ -14,7 +14,7 @@
     "gulp-babel": "^7.0.1",
     "nodemon": "^1.10.0",
     "serve-static": "^1.11.1",
-    "webpack": "^1.13.1"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "serve": "nodemon server.js",
